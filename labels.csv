@@ -1,0 +1,2423 @@
+Sample_num,Class
+1,Unconsolidated Barren
+2,Unconsolidated Barren
+3,Unconsolidated Barren
+4,Annual Crops
+5,Annual Crops
+6,Annual Crops
+7,Annual Crops
+8,Annual Crops
+10,Annual Crops
+11,Annual Crops
+12,Annual Crops
+13,Annual Crops
+14,Annual Crops
+17,Annual Crops
+18,Shrubs
+19,Mixed or Not Classified
+22,Annual Crops
+23,Annual Crops
+24,Mixed or Not Classified
+25,Mixed or Not Classified
+26,Unconsolidated Barren
+27,Annual Crops
+28,Annual Crops
+29,Annual Crops
+30,Shrubs
+31,Natural Grassland
+32,Annual Crops
+33,Shrubs
+34,Shrubs
+35,Shrubs
+40,Shrubs
+41,Shrubs
+42,Shrubs
+43,Shrubs
+44,Shrubs
+45,Natural Wooded Land
+46,Natural Wooded Land
+47,Annual Crops
+48,Mixed or Not Classified
+49,Annual Crops
+51,Mixed or Not Classified
+60,Mixed or Not Classified
+65,Shrubs
+67,Shrubs
+78,Mixed or Not Classified
+82,Mixed or Not Classified
+85,Shrubs
+97,Mixed or Not Classified
+104,Shrubs
+107,Mixed or Not Classified
+113,Mixed or Not Classified
+116,Shrubs
+118,Shrubs
+120,Shrubs
+134,Shrubs
+135,Mixed or Not Classified
+138,Shrubs
+141,Mixed or Not Classified
+160,Mixed or Not Classified
+179,Mixed or Not Classified
+181,Mixed or Not Classified
+185,Mixed or Not Classified
+197,Shrubs
+199,Natural Wooded Land
+210,Shrubs
+213,Mixed or Not Classified
+219,Mixed or Not Classified
+232,Shrubs
+255,Shrubs
+257,Shrubs
+263,Natural Grassland
+264,Mixed or Not Classified
+265,Mixed or Not Classified
+266,Annual Crops
+267,Annual Crops
+272,Shrubs
+273,Shrubs
+274,Shrubs
+275,Shrubs
+276,Shrubs
+277,Mixed or Not Classified
+278,Permanent Crops
+279,Permanent Crops
+280,Natural Grassland
+281,Natural Grassland
+282,Annual Crops
+283,Annual Crops
+287,Shrubs
+288,Shrubs
+294,Shrubs
+316,Mixed or Not Classified
+321,Mixed or Not Classified
+346,Mixed or Not Classified
+349,Mixed or Not Classified
+351,Mixed or Not Classified
+371,Shrubs
+392,Shrubs
+403,Mixed or Not Classified
+440,Consolidated Barren
+441,Shrubs
+491,Mixed or Not Classified
+560,Mixed or Not Classified
+568,Shrubs
+573,Mixed or Not Classified
+590,Mixed or Not Classified
+656,Shrubs
+691,Mixed or Not Classified
+706,Shrubs
+738,Consolidated Barren
+759,Shrubs
+762,Shrubs
+765,Consolidated Barren
+798,Consolidated Barren
+819,Mixed or Not Classified
+880,Shrubs
+953,Shrubs
+993,Shrubs
+1029,Mixed or Not Classified
+1034,Mixed or Not Classified
+1054,Shrubs
+1055,Mixed or Not Classified
+1056,Mixed or Not Classified
+1065,Annual Crops
+1088,Mixed or Not Classified
+1089,Shrubs
+1090,Shrubs
+1091,Shrubs
+1092,Annual Crops
+1134,Annual Crops
+1147,Mixed or Not Classified
+1148,Mixed or Not Classified
+1149,Unconsolidated Barren
+1162,Natural Wooded Land
+1169,Mixed or Not Classified
+1180,Annual Crops
+1181,Annual Crops
+1184,Mixed or Not Classified
+1224,Annual Crops
+1229,Natural Grassland
+1238,Mixed or Not Classified
+1248,Annual Crops
+1249,Natural Grassland
+1250,Annual Crops
+1251,Natural Grassland
+1253,Mixed or Not Classified
+1254,Natural Wooded Land
+1255,Natural Grassland
+1256,Mixed or Not Classified
+1257,Natural Grassland
+1258,Mixed or Not Classified
+1259,Mixed or Not Classified
+1260,Natural Grassland
+1261,Mixed or Not Classified
+1262,Mixed or Not Classified
+1272,Natural Grassland
+1273,Shrubs
+1274,Shrubs
+1276,Mixed or Not Classified
+1278,Annual Crops
+1291,Natural Wooded Land
+1292,Shrubs
+1293,Natural Grassland
+1294,Annual Crops
+1295,Mixed or Not Classified
+1297,Natural Grassland
+1302,Annual Crops
+1309,Built-up
+1310,Built-up
+1311,Built-up
+1312,Built-up
+1314,Annual Crops
+1357,Annual Crops
+1411,Annual Crops
+1429,Annual Crops
+1470,Annual Crops
+1479,Shrubs
+1480,Natural Grassland
+1481,Mixed or Not Classified
+1482,Natural Wooded Land
+1483,Natural Wooded Land
+1487,Built-up
+1488,Mixed or Not Classified
+1507,Annual Crops
+1538,Annual Crops
+1585,Annual Crops
+1588,Annual Crops
+1596,Annual Crops
+1604,Annual Crops
+1619,Annual Crops
+1629,Annual Crops
+1645,Annual Crops
+1733,Annual Crops
+1745,Built-up
+1746,Mixed or Not Classified
+1799,Shrubs
+1801,Mixed or Not Classified
+1834,Annual Crops
+1840,Annual Crops
+1841,Natural Grassland
+1842,Mixed or Not Classified
+1843,Annual Crops
+1847,Mixed or Not Classified
+1851,Natural Wooded Land
+1852,Unconsolidated Barren
+1853,Unconsolidated Barren
+1894,Shrubs
+1903,Annual Crops
+1916,Mixed or Not Classified
+1919,Shrubs
+1922,Shrubs
+1937,Consolidated Barren
+1953,Consolidated Barren
+1960,Mixed or Not Classified
+1969,Natural Grassland
+1970,Mixed or Not Classified
+1971,Mixed or Not Classified
+1976,Mixed or Not Classified
+1978,Mixed or Not Classified
+1982,Shrubs
+1991,Mixed or Not Classified
+2013,Natural Wooded Land
+2021,Natural Wooded Land
+2024,Shrubs
+2025,Shrubs
+2026,Natural Grassland
+2027,Mixed or Not Classified
+2028,Mixed or Not Classified
+2029,Annual Crops
+2030,Annual Crops
+2034,Annual Crops
+2038,Annual Crops
+2043,Annual Crops
+2046,Annual Crops
+2047,Mixed or Not Classified
+2048,Mixed or Not Classified
+2051,Mixed or Not Classified
+2055,Mixed or Not Classified
+2064,Natural Grassland
+2067,Consolidated Barren
+2068,Consolidated Barren
+2069,Consolidated Barren
+2070,Consolidated Barren
+2072,Annual Crops
+2090,Mixed or Not Classified
+2091,Shrubs
+2094,Annual Crops
+2099,Shrubs
+2100,Shrubs
+2105,Annual Crops
+2107,Annual Crops
+2109,Mixed or Not Classified
+2110,Annual Crops
+2111,Mixed or Not Classified
+2112,Annual Crops
+2113,Annual Crops
+2114,Annual Crops
+2116,Mixed or Not Classified
+2119,Mixed or Not Classified
+2154,Natural Grassland
+2168,Mixed or Not Classified
+2183,Annual Crops
+2184,Annual Crops
+2185,Natural Wooded Land
+2186,Natural Grassland
+2187,Mixed or Not Classified
+2191,Planted Forest
+2192,Planted Forest
+2204,Annual Crops
+2208,Mixed or Not Classified
+2222,Waterbodies
+2226,Waterbodies
+2238,Waterbodies
+2240,Waterbodies
+2241,Waterbodies
+2248,Waterbodies
+2252,Waterbodies
+2257,Waterbodies
+2260,Waterbodies
+2267,Waterbodies
+2269,Waterbodies
+2275,Waterbodies
+2277,Waterbodies
+2279,Waterbodies
+2285,Waterbodies
+2289,Waterbodies
+2291,Waterbodies
+2292,Waterbodies
+2294,Waterbodies
+2295,Waterbodies
+2301,Waterbodies
+2304,Waterbodies
+2307,Waterbodies
+2312,Waterbodies
+2319,Waterbodies
+2331,Waterbodies
+2335,Waterbodies
+2340,Waterbodies
+2343,Waterbodies
+2344,Waterbodies
+2348,Mixed or Not Classified
+2349,Unconsolidated Barren
+2350,Mixed or Not Classified
+2351,Mixed or Not Classified
+2352,Unconsolidated Barren
+2353,Unconsolidated Barren
+2359,Shrubs
+2360,Mixed or Not Classified
+2373,Consolidated Barren
+2375,Mixed or Not Classified
+2378,Mixed or Not Classified
+2389,Mixed or Not Classified
+2392,Consolidated Barren
+2402,Annual Crops
+2407,Annual Crops
+2408,Annual Crops
+2409,Annual Crops
+2411,Mixed or Not Classified
+2430,Mixed or Not Classified
+2437,Shrubs
+2456,Natural Wooded Land
+2468,Natural Wooded Land
+2474,Wetlands
+2475,Shrubs
+2511,Shrubs
+2515,Mixed or Not Classified
+2520,Shrubs
+2521,Shrubs
+2535,Shrubs
+2554,Natural Wooded Land
+2556,Shrubs
+2585,Shrubs
+2605,Shrubs
+2612,Natural Wooded Land
+2620,Shrubs
+2625,Natural Wooded Land
+2641,Shrubs
+2662,Shrubs
+2663,Shrubs
+2668,Natural Wooded Land
+2683,Shrubs
+2705,Shrubs
+2707,Shrubs
+2727,Shrubs
+2745,Shrubs
+2751,Shrubs
+2753,Shrubs
+2783,Mixed or Not Classified
+2789,Waterbodies
+2794,Waterbodies
+2799,Natural Grassland
+2826,Annual Crops
+2827,Permanent Crops
+2828,Permanent Crops
+2829,Permanent Crops
+2841,Mixed or Not Classified
+2842,Mixed or Not Classified
+2843,Mixed or Not Classified
+2844,Natural Wooded Land
+2845,Natural Wooded Land
+2846,Natural Wooded Land
+2847,Natural Wooded Land
+2848,Natural Grassland
+2849,Natural Wooded Land
+2850,Mixed or Not Classified
+2851,Mixed or Not Classified
+2852,Natural Grassland
+2853,Planted Forest
+2854,Mixed or Not Classified
+2855,Permanent Crops
+2856,Permanent Crops
+2872,Annual Crops
+2885,Annual Crops
+2937,Annual Crops
+2950,Annual Crops
+2980,Annual Crops
+3044,Annual Crops
+3078,Annual Crops
+3120,Annual Crops
+3187,Annual Crops
+3205,Annual Crops
+3248,Annual Crops
+3289,Annual Crops
+3294,Annual Crops
+3305,Annual Crops
+3331,Annual Crops
+3354,Natural Grassland
+3363,Annual Crops
+3398,Annual Crops
+3399,Annual Crops
+3400,Mixed or Not Classified
+3401,Natural Grassland
+3402,Mixed or Not Classified
+3403,Mixed or Not Classified
+3404,Natural Grassland
+3405,Natural Grassland
+3406,Mixed or Not Classified
+3407,Shrubs
+3408,Mixed or Not Classified
+3412,Natural Grassland
+3413,Natural Grassland
+3414,Natural Grassland
+3415,Natural Grassland
+3416,Mixed or Not Classified
+3420,Mixed or Not Classified
+3421,Mixed or Not Classified
+3422,Natural Grassland
+3433,Natural Grassland
+3434,Mixed or Not Classified
+3435,Mixed or Not Classified
+3436,Annual Crops
+3437,Mixed or Not Classified
+3439,Mixed or Not Classified
+3467,Mixed or Not Classified
+3468,Built-up
+3469,Natural Grassland
+3470,Shrubs
+3471,Mixed or Not Classified
+3472,Natural Grassland
+3473,Mixed or Not Classified
+3476,Shrubs
+3477,Mixed or Not Classified
+3478,Natural Grassland
+3479,Natural Wooded Land
+3480,Shrubs
+3481,Shrubs
+3482,Mixed or Not Classified
+3483,Mixed or Not Classified
+3484,Mixed or Not Classified
+3485,Mixed or Not Classified
+3486,Mixed or Not Classified
+3487,Mixed or Not Classified
+3490,Built-up
+3504,Annual Crops
+3516,Annual Crops
+3543,Shrubs
+3558,Mixed or Not Classified
+3559,Natural Grassland
+3560,Natural Grassland
+3561,Natural Grassland
+3562,Shrubs
+3564,Shrubs
+3565,Natural Grassland
+3566,Natural Grassland
+3574,Mixed or Not Classified
+3575,Mixed or Not Classified
+3592,Shrubs
+3608,Shrubs
+3613,Shrubs
+3632,Consolidated Barren
+3635,Shrubs
+3642,Shrubs
+3662,Mixed or Not Classified
+3665,Mixed or Not Classified
+3670,Mixed or Not Classified
+3699,Mixed or Not Classified
+3700,Mixed or Not Classified
+3701,Mixed or Not Classified
+3702,Mixed or Not Classified
+3703,Mixed or Not Classified
+3704,Mixed or Not Classified
+3705,Shrubs
+3706,Annual Crops
+3707,Permanent Crops
+3708,Permanent Crops
+3734,Annual Crops
+3738,Mixed or Not Classified
+3739,Mixed or Not Classified
+3740,Annual Crops
+3759,Mixed or Not Classified
+3761,Annual Crops
+3766,Annual Crops
+3768,Annual Crops
+3769,Mixed or Not Classified
+3774,Shrubs
+3775,Shrubs
+3776,Shrubs
+3777,Shrubs
+3778,Shrubs
+3786,Annual Crops
+3795,Annual Crops
+3796,Annual Crops
+3797,Annual Crops
+3798,Annual Crops
+3799,Annual Crops
+3800,Mixed or Not Classified
+3801,Mixed or Not Classified
+3802,Built-up
+3816,Annual Crops
+3824,Mixed or Not Classified
+3825,Shrubs
+3826,Natural Grassland
+3829,Natural Grassland
+3830,Natural Wooded Land
+3831,Annual Crops
+3832,Annual Crops
+3833,Annual Crops
+3835,Mixed or Not Classified
+3851,Shrubs
+3869,Shrubs
+3882,Shrubs
+3883,Shrubs
+3884,Shrubs
+3889,Annual Crops
+3907,Annual Crops
+3951,Annual Crops
+3960,Annual Crops
+3976,Natural Grassland
+3977,Natural Grassland
+3978,Natural Grassland
+3979,Mixed or Not Classified
+3980,Natural Grassland
+3981,Natural Grassland
+3982,Permanent Crops
+3983,Permanent Crops
+3991,Natural Grassland
+3992,Annual Crops
+3994,Shrubs
+4003,Annual Crops
+4008,Mixed or Not Classified
+4009,Annual Crops
+4010,Shrubs
+4011,Natural Grassland
+4012,Shrubs
+4013,Shrubs
+4014,Natural Grassland
+4015,Mixed or Not Classified
+4016,Shrubs
+4017,Natural Grassland
+4018,Natural Grassland
+4020,Mixed or Not Classified
+4023,Natural Grassland
+4024,Mixed or Not Classified
+4025,Mixed or Not Classified
+4026,Annual Crops
+4027,Mixed or Not Classified
+4064,Shrubs
+4071,Shrubs
+4079,Mixed or Not Classified
+4112,Shrubs
+4116,Mixed or Not Classified
+4151,Mixed or Not Classified
+4161,Shrubs
+4168,Shrubs
+4170,Shrubs
+4173,Shrubs
+4179,Shrubs
+4196,Shrubs
+4221,Shrubs
+4234,Shrubs
+4244,Shrubs
+4283,Shrubs
+4288,Shrubs
+4294,Shrubs
+4299,Shrubs
+4314,Shrubs
+4316,Mixed or Not Classified
+4332,Shrubs
+4333,Shrubs
+4378,Shrubs
+4403,Shrubs
+4413,Mixed or Not Classified
+4435,Shrubs
+4450,Shrubs
+4452,Shrubs
+4469,Shrubs
+4472,Shrubs
+4477,Mixed or Not Classified
+4481,Shrubs
+4490,Mixed or Not Classified
+4505,Shrubs
+4526,Shrubs
+4537,Shrubs
+4545,Shrubs
+4556,Mixed or Not Classified
+4579,Shrubs
+4588,Shrubs
+4604,Shrubs
+4605,Mixed or Not Classified
+4610,Shrubs
+4611,Mixed or Not Classified
+4629,Mixed or Not Classified
+4661,Shrubs
+4681,Shrubs
+4698,Shrubs
+4719,Mixed or Not Classified
+4725,Natural Grassland
+4726,Natural Wooded Land
+4727,Natural Wooded Land
+4728,Natural Grassland
+4731,Annual Crops
+4732,Annual Crops
+4733,Mixed or Not Classified
+4734,Annual Crops
+4739,Annual Crops
+4753,Natural Grassland
+4758,Shrubs
+4761,Shrubs
+4767,Mixed or Not Classified
+4777,Shrubs
+4802,Mixed or Not Classified
+4804,Shrubs
+4812,Shrubs
+4821,Planted Forest
+4822,Natural Grassland
+4823,Planted Forest
+4836,Mixed or Not Classified
+4840,Annual Crops
+4851,Natural Grassland
+4854,Permanent Crops
+4855,Permanent Crops
+4856,Permanent Crops
+4859,Natural Grassland
+4860,Mixed or Not Classified
+4875,Natural Grassland
+4876,Natural Grassland
+4877,Natural Grassland
+4878,Mixed or Not Classified
+4879,Shrubs
+4880,Shrubs
+4882,Natural Wooded Land
+4883,Shrubs
+4884,Shrubs
+4885,Annual Crops
+4890,Annual Crops
+4901,Annual Crops
+4902,Natural Grassland
+4903,Natural Grassland
+4906,Shrubs
+4907,Shrubs
+4908,Annual Crops
+4909,Mixed or Not Classified
+4910,Shrubs
+4911,Mixed or Not Classified
+4931,Annual Crops
+4934,Built-up
+4935,Built-up
+4936,Built-up
+4937,Built-up
+4938,Built-up
+4939,Mixed or Not Classified
+4940,Natural Wooded Land
+4941,Natural Wooded Land
+4942,Natural Wooded Land
+4943,Natural Wooded Land
+4944,Natural Wooded Land
+4946,Natural Grassland
+4949,Mixed or Not Classified
+4950,Natural Grassland
+4951,Natural Grassland
+4953,Built-up
+4954,Built-up
+4955,Mixed or Not Classified
+4956,Mixed or Not Classified
+4962,Natural Grassland
+4963,Mixed or Not Classified
+4964,Mixed or Not Classified
+4965,Natural Grassland
+4966,Natural Grassland
+4967,Natural Grassland
+4968,Mixed or Not Classified
+4969,Mixed or Not Classified
+4970,Natural Grassland
+4971,Natural Grassland
+4972,Mixed or Not Classified
+4973,Natural Grassland
+4974,Natural Grassland
+4975,Mixed or Not Classified
+4976,Natural Grassland
+4977,Mixed or Not Classified
+4978,Natural Grassland
+4979,Mixed or Not Classified
+4980,Natural Grassland
+4981,Mixed or Not Classified
+4982,Mixed or Not Classified
+4998,Annual Crops
+5028,Permanent Crops
+5029,Permanent Crops
+5030,Permanent Crops
+5031,Built-up
+5032,Mixed or Not Classified
+5033,Built-up
+5034,Mixed or Not Classified
+5035,Shrubs
+5036,Mixed or Not Classified
+5037,Mixed or Not Classified
+5038,Mixed or Not Classified
+5039,Natural Grassland
+5040,Natural Grassland
+5041,Natural Grassland
+5042,Permanent Crops
+5043,Permanent Crops
+5053,Natural Wooded Land
+5054,Mixed or Not Classified
+5061,Annual Crops
+5062,Annual Crops
+5063,Natural Grassland
+5064,Natural Grassland
+5065,Natural Grassland
+5092,Mixed or Not Classified
+5094,Shrubs
+5095,Shrubs
+5096,Mixed or Not Classified
+5097,Mixed or Not Classified
+5098,Natural Grassland
+5099,Natural Wooded Land
+5101,Mixed or Not Classified
+5104,Mixed or Not Classified
+5109,Mixed or Not Classified
+5113,Shrubs
+5114,Mixed or Not Classified
+5115,Natural Wooded Land
+5116,Shrubs
+5118,Natural Wooded Land
+5119,Shrubs
+5120,Shrubs
+5135,Shrubs
+5141,Mixed or Not Classified
+5149,Mixed or Not Classified
+5154,Shrubs
+5155,Shrubs
+5161,Mixed or Not Classified
+5166,Shrubs
+5168,Mixed or Not Classified
+5170,Mixed or Not Classified
+5175,Shrubs
+5177,Shrubs
+5195,Shrubs
+5224,Mixed or Not Classified
+5227,Shrubs
+5240,Shrubs
+5251,Shrubs
+5276,Mixed or Not Classified
+5283,Mixed or Not Classified
+5286,Natural Grassland
+5299,Mixed or Not Classified
+5302,Mixed or Not Classified
+5304,Shrubs
+5306,Shrubs
+5321,Shrubs
+5348,Mixed or Not Classified
+5349,Shrubs
+5350,Natural Wooded Land
+5358,Mixed or Not Classified
+5360,Natural Wooded Land
+5362,Natural Wooded Land
+5363,Mixed or Not Classified
+5366,Mixed or Not Classified
+5368,Natural Wooded Land
+5369,Natural Wooded Land
+5370,Shrubs
+5372,Mixed or Not Classified
+5373,Planted Forest
+5374,Consolidated Barren
+5375,Mixed or Not Classified
+5376,Shrubs
+5377,Mixed or Not Classified
+5378,Mixed or Not Classified
+5381,Annual Crops
+5387,Annual Crops
+5388,Planted Forest
+5389,Planted Forest
+5390,Mixed or Not Classified
+5393,Mixed or Not Classified
+5394,Natural Wooded Land
+5395,Mixed or Not Classified
+5396,Planted Forest
+5397,Mixed or Not Classified
+5400,Mixed or Not Classified
+5403,Planted Forest
+5405,Mixed or Not Classified
+5406,Annual Crops
+5408,Annual Crops
+5409,Natural Wooded Land
+5410,Natural Wooded Land
+5411,Mixed or Not Classified
+5412,Natural Wooded Land
+5413,Natural Wooded Land
+5414,Mixed or Not Classified
+5415,Natural Wooded Land
+5416,Shrubs
+5417,Mixed or Not Classified
+5418,Mixed or Not Classified
+5419,Natural Wooded Land
+5421,Planted Forest
+5422,Planted Forest
+5435,Mixed or Not Classified
+5443,Natural Wooded Land
+5445,Mixed or Not Classified
+5453,Annual Crops
+5455,Shrubs
+5456,Mixed or Not Classified
+5457,Shrubs
+5458,Shrubs
+5459,Natural Wooded Land
+5460,Natural Wooded Land
+5464,Planted Forest
+5468,Natural Wooded Land
+5469,Natural Wooded Land
+5473,Planted Forest
+5474,Natural Wooded Land
+5475,Shrubs
+5476,Mixed or Not Classified
+5477,Planted Forest
+5478,Mixed or Not Classified
+5479,Mixed or Not Classified
+5480,Mixed or Not Classified
+5481,Planted Forest
+5485,Planted Forest
+5486,Natural Wooded Land
+5487,Planted Forest
+5488,Mixed or Not Classified
+5489,Shrubs
+5490,Shrubs
+5491,Mixed or Not Classified
+5493,Planted Forest
+5497,Natural Wooded Land
+5498,Shrubs
+5499,Mixed or Not Classified
+5500,Planted Forest
+5501,Mixed or Not Classified
+5502,Natural Wooded Land
+5504,Shrubs
+5506,Shrubs
+5509,Natural Wooded Land
+5510,Mixed or Not Classified
+5511,Natural Wooded Land
+5512,Mixed or Not Classified
+5513,Natural Wooded Land
+5514,Mixed or Not Classified
+5515,Mixed or Not Classified
+5516,Mixed or Not Classified
+5519,Mixed or Not Classified
+5524,Natural Wooded Land
+5525,Mixed or Not Classified
+5527,Shrubs
+5528,Natural Wooded Land
+5562,Annual Crops
+5563,Annual Crops
+5564,Planted Forest
+5566,Natural Wooded Land
+5567,Mixed or Not Classified
+5568,Planted Forest
+5570,Mixed or Not Classified
+5575,Annual Crops
+5577,Mixed or Not Classified
+5579,Planted Forest
+5580,Natural Wooded Land
+5583,Natural Wooded Land
+5585,Natural Wooded Land
+5586,Planted Forest
+5587,Planted Forest
+5588,Mixed or Not Classified
+5589,Mixed or Not Classified
+5590,Mixed or Not Classified
+5594,Natural Grassland
+5596,Natural Wooded Land
+5597,Mixed or Not Classified
+5599,Natural Wooded Land
+5600,Planted Forest
+5603,Mixed or Not Classified
+5611,Planted Forest
+5613,Planted Forest
+5623,Built-up
+5624,Mixed or Not Classified
+5627,Annual Crops
+5629,Natural Grassland
+5632,Annual Crops
+5633,Annual Crops
+5634,Natural Grassland
+5635,Planted Forest
+5638,Natural Wooded Land
+5639,Shrubs
+5640,Mixed or Not Classified
+5641,Shrubs
+5642,Mixed or Not Classified
+5643,Annual Crops
+5645,Annual Crops
+5647,Annual Crops
+5653,Permanent Crops
+5655,Annual Crops
+5657,Annual Crops
+5658,Annual Crops
+5660,Annual Crops
+5664,Mixed or Not Classified
+5665,Natural Wooded Land
+5669,Shrubs
+5670,Shrubs
+5671,Shrubs
+5678,Built-up
+5679,Built-up
+5680,Shrubs
+5681,Shrubs
+5682,Natural Wooded Land
+5683,Natural Wooded Land
+5684,Planted Forest
+5686,Planted Forest
+5687,Planted Forest
+5689,Annual Crops
+5691,Annual Crops
+5693,Annual Crops
+5695,Mixed or Not Classified
+5696,Built-up
+5697,Built-up
+5698,Built-up
+5699,Mixed or Not Classified
+5700,Built-up
+5701,Built-up
+5702,Mixed or Not Classified
+5703,Permanent Crops
+5704,Permanent Crops
+5706,Annual Crops
+5707,Planted Forest
+5709,Planted Forest
+5710,Planted Forest
+5711,Planted Forest
+5713,Planted Forest
+5718,Natural Wooded Land
+5719,Planted Forest
+5720,Mixed or Not Classified
+5721,Mixed or Not Classified
+5722,Planted Forest
+5723,Mixed or Not Classified
+5724,Built-up
+5725,Built-up
+5728,Mixed or Not Classified
+5729,Mixed or Not Classified
+5738,Waterbodies
+5740,Built-up
+5741,Built-up
+5743,Natural Wooded Land
+5744,Natural Wooded Land
+5745,Natural Wooded Land
+5757,Natural Grassland
+5758,Mixed or Not Classified
+5764,Annual Crops
+5767,Natural Wooded Land
+5771,Planted Forest
+5772,Mixed or Not Classified
+5773,Built-up
+5774,Built-up
+5777,Built-up
+5778,Mixed or Not Classified
+5779,Mixed or Not Classified
+5786,Natural Wooded Land
+5787,Natural Wooded Land
+5788,Annual Crops
+5789,Annual Crops
+5790,Natural Wooded Land
+5791,Natural Wooded Land
+5797,Natural Wooded Land
+5802,Natural Wooded Land
+5841,Natural Wooded Land
+5866,Natural Wooded Land
+5879,Built-up
+5880,Built-up
+5881,Built-up
+5882,Built-up
+5885,Permanent Crops
+5886,Permanent Crops
+5887,Permanent Crops
+5888,Built-up
+5889,Mixed or Not Classified
+5899,Planted Forest
+5900,Natural Wooded Land
+5902,Built-up
+5903,Mixed or Not Classified
+5916,Built-up
+5917,Mixed or Not Classified
+5918,Mixed or Not Classified
+5919,Natural Wooded Land
+5926,Mixed or Not Classified
+5928,Shrubs
+5929,Natural Wooded Land
+5930,Mixed or Not Classified
+5931,Natural Wooded Land
+5932,Mixed or Not Classified
+5933,Natural Wooded Land
+5934,Mixed or Not Classified
+5935,Natural Wooded Land
+5936,Natural Grassland
+5937,Natural Wooded Land
+5938,Mixed or Not Classified
+5939,Natural Wooded Land
+5940,Mixed or Not Classified
+5941,Natural Wooded Land
+5943,Mixed or Not Classified
+5944,Planted Forest
+5945,Planted Forest
+5949,Planted Forest
+5950,Planted Forest
+5953,Planted Forest
+5954,Mixed or Not Classified
+5956,Natural Wooded Land
+5957,Planted Forest
+5960,Planted Forest
+5961,Planted Forest
+5962,Natural Wooded Land
+5963,Planted Forest
+5966,Mixed or Not Classified
+5967,Planted Forest
+5968,Planted Forest
+5971,Mixed or Not Classified
+5972,Mixed or Not Classified
+5974,Natural Wooded Land
+5977,Planted Forest
+5991,Built-up
+5992,Planted Forest
+5993,Planted Forest
+5994,Planted Forest
+5995,Planted Forest
+5996,Planted Forest
+5997,Mixed or Not Classified
+5998,Planted Forest
+5999,Planted Forest
+6000,Planted Forest
+6001,Mixed or Not Classified
+6002,Natural Wooded Land
+6003,Planted Forest
+6004,Natural Wooded Land
+6005,Planted Forest
+6007,Built-up
+6008,Built-up
+6009,Natural Grassland
+6011,Permanent Crops
+6012,Permanent Crops
+6018,Planted Forest
+6020,Planted Forest
+6021,Mixed or Not Classified
+6022,Natural Wooded Land
+6023,Natural Wooded Land
+6024,Mixed or Not Classified
+6029,Natural Wooded Land
+6031,Natural Wooded Land
+6032,Natural Wooded Land
+6033,Mixed or Not Classified
+6034,Natural Wooded Land
+6035,Natural Wooded Land
+6036,Mixed or Not Classified
+6041,Waterbodies
+6042,Mixed or Not Classified
+6043,Built-up
+6044,Permanent Crops
+6045,Permanent Crops
+6046,Permanent Crops
+6047,Annual Crops
+6050,Annual Crops
+6051,Mixed or Not Classified
+6052,Mixed or Not Classified
+6058,Built-up
+6066,Shrubs
+6104,Shrubs
+6110,Mixed or Not Classified
+6116,Mixed or Not Classified
+6163,Shrubs
+6165,Shrubs
+6192,Natural Grassland
+6201,Shrubs
+6223,Mixed or Not Classified
+6225,Mixed or Not Classified
+6231,Mixed or Not Classified
+6250,Mixed or Not Classified
+6259,Mixed or Not Classified
+6285,Shrubs
+6303,Shrubs
+6318,Planted Forest
+6321,Natural Wooded Land
+6322,Planted Forest
+6328,Planted Forest
+6331,Planted Forest
+6333,Mixed or Not Classified
+6334,Planted Forest
+6336,Mixed or Not Classified
+6337,Mixed or Not Classified
+6338,Planted Forest
+6339,Mixed or Not Classified
+6341,Mixed or Not Classified
+6343,Planted Forest
+6345,Mixed or Not Classified
+6349,Mixed or Not Classified
+6350,Natural Wooded Land
+6352,Planted Forest
+6354,Mixed or Not Classified
+6355,Planted Forest
+6356,Shrubs
+6358,Planted Forest
+6361,Mixed or Not Classified
+6362,Mixed or Not Classified
+6368,Built-up
+6369,Built-up
+6371,Permanent Crops
+6372,Permanent Crops
+6383,Built-up
+6384,Built-up
+6385,Shrubs
+6386,Planted Forest
+6387,Planted Forest
+6388,Natural Wooded Land
+6389,Mixed or Not Classified
+6390,Mixed or Not Classified
+6391,Natural Wooded Land
+6401,Mixed or Not Classified
+6402,Mixed or Not Classified
+6414,Natural Wooded Land
+6415,Natural Wooded Land
+6417,Natural Wooded Land
+6460,Natural Wooded Land
+6462,Natural Wooded Land
+6475,Natural Wooded Land
+6495,Natural Wooded Land
+6503,Mixed or Not Classified
+6530,Natural Wooded Land
+6551,Natural Wooded Land
+6556,Natural Wooded Land
+6592,Natural Wooded Land
+6602,Mixed or Not Classified
+6623,Natural Wooded Land
+6625,Natural Wooded Land
+6636,Natural Wooded Land
+6651,Natural Wooded Land
+6664,Shrubs
+6674,Natural Wooded Land
+6677,Natural Wooded Land
+6685,Shrubs
+6694,Mixed or Not Classified
+6702,Natural Wooded Land
+6704,Natural Wooded Land
+6709,Natural Wooded Land
+6715,Natural Wooded Land
+6741,Natural Wooded Land
+6746,Natural Wooded Land
+6757,Mixed or Not Classified
+6761,Mixed or Not Classified
+6794,Natural Wooded Land
+6824,Natural Wooded Land
+6827,Shrubs
+6857,Natural Wooded Land
+6875,Shrubs
+6888,Natural Wooded Land
+6899,Mixed or Not Classified
+6904,Mixed or Not Classified
+6921,Mixed or Not Classified
+6932,Natural Wooded Land
+6947,Mixed or Not Classified
+6952,Mixed or Not Classified
+6973,Mixed or Not Classified
+6979,Natural Wooded Land
+6984,Natural Wooded Land
+6994,Natural Wooded Land
+7011,Mixed or Not Classified
+7013,Mixed or Not Classified
+7022,Natural Wooded Land
+7044,Mixed or Not Classified
+7068,Mixed or Not Classified
+7080,Mixed or Not Classified
+7081,Consolidated Barren
+7082,Shrubs
+7083,Mixed or Not Classified
+7084,Consolidated Barren
+7085,Mixed or Not Classified
+7086,Shrubs
+7087,Mixed or Not Classified
+7088,Mixed or Not Classified
+7089,Mixed or Not Classified
+7090,Natural Grassland
+7091,Shrubs
+7092,Mixed or Not Classified
+7093,Shrubs
+7094,Mixed or Not Classified
+7095,Mixed or Not Classified
+7096,Mixed or Not Classified
+7097,Mixed or Not Classified
+7098,Shrubs
+7099,Shrubs
+7100,Mixed or Not Classified
+7101,Natural Grassland
+7102,Shrubs
+7103,Shrubs
+7104,Shrubs
+7105,Shrubs
+7106,Consolidated Barren
+7111,Permanent Crops
+7112,Permanent Crops
+7113,Mixed or Not Classified
+7114,Mixed or Not Classified
+7115,Planted Forest
+7116,Planted Forest
+7117,Planted Forest
+7118,Annual Crops
+7120,Built-up
+7121,Built-up
+7127,Waterbodies
+7135,Waterbodies
+7136,Waterbodies
+7140,Waterbodies
+7183,Waterbodies
+7220,Waterbodies
+7227,Waterbodies
+7238,Waterbodies
+7269,Waterbodies
+7278,Waterbodies
+7280,Waterbodies
+7292,Waterbodies
+7297,Mixed or Not Classified
+7298,Mixed or Not Classified
+7300,Natural Wooded Land
+7301,Natural Wooded Land
+7302,Natural Wooded Land
+7303,Planted Forest
+7308,Annual Crops
+7310,Annual Crops
+7311,Annual Crops
+7326,Annual Crops
+7327,Annual Crops
+7328,Annual Crops
+7340,Shrubs
+7341,Natural Wooded Land
+7342,Mixed or Not Classified
+7343,Shrubs
+7344,Built-up
+7345,Built-up
+7346,Built-up
+7347,Built-up
+7349,Annual Crops
+7355,Mixed or Not Classified
+7356,Built-up
+7367,Waterbodies
+7391,Waterbodies
+7400,Waterbodies
+7406,Waterbodies
+7410,Annual Crops
+7412,Wetlands
+7413,Wetlands
+7414,Wetlands
+7415,Wetlands
+7416,Mixed or Not Classified
+7424,Natural Grassland
+7436,Waterbodies
+7438,Waterbodies
+7439,Waterbodies
+7440,Waterbodies
+7470,Waterbodies
+7493,Waterbodies
+7496,Waterbodies
+7510,Waterbodies
+7521,Waterbodies
+7524,Waterbodies
+7567,Waterbodies
+7575,Waterbodies
+7600,Waterbodies
+7646,Annual Crops
+7647,Annual Crops
+7649,Shrubs
+7650,Shrubs
+7651,Annual Crops
+7652,Mixed or Not Classified
+7653,Shrubs
+7654,Shrubs
+7655,Shrubs
+7656,Mixed or Not Classified
+7657,Mixed or Not Classified
+7658,Annual Crops
+7670,Permanent Crops
+7671,Permanent Crops
+7672,Permanent Crops
+7674,Annual Crops
+7681,Annual Crops
+7688,Annual Crops
+7689,Mixed or Not Classified
+7692,Natural Grassland
+7701,Natural Grassland
+7708,Natural Grassland
+7711,Natural Grassland
+7742,Mixed or Not Classified
+7760,Annual Crops
+7761,Annual Crops
+7779,Shrubs
+7789,Natural Grassland
+7798,Annual Crops
+7806,Annual Crops
+7810,Annual Crops
+7812,Annual Crops
+7820,Annual Crops
+7827,Annual Crops
+7835,Annual Crops
+7854,Annual Crops
+7874,Annual Crops
+7881,Shrubs
+7882,Natural Wooded Land
+7883,Mixed or Not Classified
+7884,Mixed or Not Classified
+7886,Shrubs
+7915,Mixed or Not Classified
+7921,Shrubs
+7923,Annual Crops
+7932,Annual Crops
+7947,Shrubs
+7954,Permanent Crops
+7955,Permanent Crops
+7958,Mixed or Not Classified
+7961,Built-up
+7964,Built-up
+7966,Built-up
+7968,Built-up
+7971,Built-up
+7974,Mixed or Not Classified
+7978,Annual Crops
+7979,Natural Wooded Land
+7980,Natural Wooded Land
+7981,Natural Wooded Land
+7982,Planted Forest
+7983,Mixed or Not Classified
+7984,Natural Grassland
+7985,Permanent Crops
+7986,Permanent Crops
+7987,Waterbodies
+8005,Mixed or Not Classified
+8018,Mixed or Not Classified
+8084,Shrubs
+8095,Mixed or Not Classified
+8096,Natural Wooded Land
+8097,Natural Wooded Land
+8098,Natural Wooded Land
+8101,Permanent Crops
+8102,Permanent Crops
+8103,Waterbodies
+8105,Waterbodies
+8118,Waterbodies
+8123,Waterbodies
+8125,Waterbodies
+8129,Waterbodies
+8130,Waterbodies
+8134,Waterbodies
+8136,Waterbodies
+8137,Waterbodies
+8139,Waterbodies
+8141,Unconsolidated Barren
+8142,Waterbodies
+8147,Built-up
+8148,Built-up
+8149,Built-up
+8150,Annual Crops
+8151,Annual Crops
+8152,Permanent Crops
+8153,Permanent Crops
+8154,Mixed or Not Classified
+8155,Mixed or Not Classified
+8156,Shrubs
+8161,Shrubs
+8162,Shrubs
+8166,Annual Crops
+8175,Annual Crops
+8185,Consolidated Barren
+8186,Mixed or Not Classified
+8187,Mixed or Not Classified
+8188,Mixed or Not Classified
+8191,Planted Forest
+8192,Mixed or Not Classified
+8195,Built-up
+8201,Built-up
+8202,Built-up
+8206,Mixed or Not Classified
+8212,Built-up
+8214,Built-up
+8220,Waterbodies
+8222,Shrubs
+8226,Planted Forest
+8227,Planted Forest
+8228,Shrubs
+8230,Annual Crops
+8232,Natural Wooded Land
+8233,Mixed or Not Classified
+8234,Natural Wooded Land
+8235,Natural Grassland
+8236,Mixed or Not Classified
+8237,Natural Grassland
+8248,Mixed or Not Classified
+8249,Shrubs
+8251,Shrubs
+8252,Mixed or Not Classified
+8253,Consolidated Barren
+8264,Built-up
+8265,Built-up
+8270,Built-up
+8271,Built-up
+8273,Waterbodies
+8276,Mixed or Not Classified
+8277,Built-up
+8278,Built-up
+8280,Built-up
+8281,Built-up
+8282,Built-up
+8283,Built-up
+8285,Built-up
+8286,Built-up
+8288,Built-up
+8289,Built-up
+8290,Built-up
+8292,Built-up
+8301,Mixed or Not Classified
+8302,Mixed or Not Classified
+8303,Mixed or Not Classified
+8304,Consolidated Barren
+8305,Consolidated Barren
+8306,Consolidated Barren
+8318,Annual Crops
+8345,Annual Crops
+8346,Annual Crops
+8348,Annual Crops
+8353,Natural Grassland
+8354,Annual Crops
+8356,Annual Crops
+8363,Annual Crops
+8376,Mixed or Not Classified
+8377,Mixed or Not Classified
+8378,Annual Crops
+8381,Annual Crops
+8386,Annual Crops
+8388,Annual Crops
+8391,Annual Crops
+8398,Annual Crops
+8399,Annual Crops
+8404,Natural Grassland
+8405,Natural Grassland
+8406,Permanent Crops
+8407,Permanent Crops
+8411,Annual Crops
+8421,Annual Crops
+8424,Annual Crops
+8427,Annual Crops
+8430,Annual Crops
+8432,Annual Crops
+8440,Annual Crops
+8450,Mixed or Not Classified
+8451,Mixed or Not Classified
+8456,Annual Crops
+8457,Annual Crops
+8458,Planted Forest
+8460,Planted Forest
+8461,Mixed or Not Classified
+8464,Annual Crops
+8466,Annual Crops
+8467,Annual Crops
+8471,Annual Crops
+8473,Annual Crops
+8478,Annual Crops
+8479,Annual Crops
+8483,Mixed or Not Classified
+8487,Annual Crops
+8490,Annual Crops
+8491,Annual Crops
+8492,Annual Crops
+8493,Annual Crops
+8495,Permanent Crops
+8496,Permanent Crops
+8497,Permanent Crops
+8500,Annual Crops
+8503,Annual Crops
+8506,Mixed or Not Classified
+8507,Mixed or Not Classified
+8508,Natural Grassland
+8517,Annual Crops
+8518,Annual Crops
+8520,Natural Grassland
+8521,Annual Crops
+8522,Annual Crops
+8523,Annual Crops
+8524,Annual Crops
+8527,Annual Crops
+8528,Annual Crops
+8534,Shrubs
+8535,Natural Wooded Land
+8538,Built-up
+8539,Built-up
+8540,Built-up
+8541,Waterbodies
+8543,Waterbodies
+8551,Waterbodies
+8552,Waterbodies
+8559,Waterbodies
+8562,Waterbodies
+8568,Waterbodies
+8571,Waterbodies
+8572,Waterbodies
+8574,Waterbodies
+8576,Waterbodies
+8582,Waterbodies
+8586,Waterbodies
+8602,Waterbodies
+8603,Waterbodies
+8605,Waterbodies
+8609,Waterbodies
+8618,Waterbodies
+8626,Waterbodies
+8629,Waterbodies
+8630,Waterbodies
+8635,Waterbodies
+8636,Waterbodies
+8637,Built-up
+8638,Built-up
+8639,Built-up
+8640,Mixed or Not Classified
+8641,Mixed or Not Classified
+8642,Natural Wooded Land
+8646,Waterbodies
+8649,Waterbodies
+8650,Waterbodies
+8652,Waterbodies
+8653,Waterbodies
+8659,Shrubs
+8663,Shrubs
+8689,Mixed or Not Classified
+8690,Shrubs
+8728,Mixed or Not Classified
+8741,Shrubs
+8764,Consolidated Barren
+8766,Shrubs
+8773,Shrubs
+8774,Mixed or Not Classified
+8782,Mixed or Not Classified
+8783,Mixed or Not Classified
+8796,Consolidated Barren
+8825,Natural Grassland
+8838,Shrubs
+8874,Shrubs
+8875,Shrubs
+8888,Consolidated Barren
+8908,Shrubs
+8910,Mixed or Not Classified
+8929,Shrubs
+8932,Mixed or Not Classified
+8953,Mixed or Not Classified
+8963,Shrubs
+8978,Consolidated Barren
+9020,Mixed or Not Classified
+9034,Mixed or Not Classified
+9036,Mixed or Not Classified
+9038,Mixed or Not Classified
+9060,Shrubs
+9066,Consolidated Barren
+9100,Mixed or Not Classified
+9105,Shrubs
+9109,Mixed or Not Classified
+9118,Shrubs
+9121,Natural Grassland
+9135,Shrubs
+9177,Mixed or Not Classified
+9179,Mixed or Not Classified
+9186,Shrubs
+9191,Natural Wooded Land
+9213,Shrubs
+9224,Shrubs
+9245,Mixed or Not Classified
+9257,Shrubs
+9315,Natural Grassland
+9320,Mixed or Not Classified
+9325,Mixed or Not Classified
+9346,Mixed or Not Classified
+9347,Mixed or Not Classified
+9349,Shrubs
+9350,Shrubs
+9352,Shrubs
+9369,Consolidated Barren
+9377,Shrubs
+9387,Natural Grassland
+9390,Consolidated Barren
+9391,Mixed or Not Classified
+9398,Mixed or Not Classified
+9410,Mixed or Not Classified
+9418,Natural Grassland
+9442,Natural Grassland
+9449,Mixed or Not Classified
+9456,Mixed or Not Classified
+9468,Shrubs
+9486,Shrubs
+9505,Natural Grassland
+9510,Natural Grassland
+9511,Shrubs
+9517,Shrubs
+9525,Mixed or Not Classified
+9529,Built-up
+9530,Natural Wooded Land
+9531,Mixed or Not Classified
+9533,Mixed or Not Classified
+9534,Shrubs
+9536,Consolidated Barren
+9538,Consolidated Barren
+9545,Mixed or Not Classified
+9547,Shrubs
+9559,Natural Grassland
+9568,Mixed or Not Classified
+9569,Natural Wooded Land
+9572,Shrubs
+9573,Consolidated Barren
+9574,Consolidated Barren
+9576,Consolidated Barren
+9583,Mixed or Not Classified
+9590,Shrubs
+9600,Mixed or Not Classified
+9601,Shrubs
+9607,Mixed or Not Classified
+9610,Shrubs
+9616,Mixed or Not Classified
+9619,Shrubs
+9620,Consolidated Barren
+9625,Shrubs
+9649,Waterbodies
+9666,Waterbodies
+9680,Waterbodies
+9699,Waterbodies
+9700,Waterbodies
+9701,Waterbodies
+9710,Waterbodies
+9717,Waterbodies
+9724,Waterbodies
+9750,Waterbodies
+9772,Waterbodies
+9776,Waterbodies
+9804,Waterbodies
+9831,Waterbodies
+9835,Waterbodies
+9893,Waterbodies
+9909,Waterbodies
+9917,Waterbodies
+9928,Waterbodies
+9967,Waterbodies
+9972,Waterbodies
+9996,Waterbodies
+10046,Waterbodies
+10095,Waterbodies
+10104,Waterbodies
+10141,Waterbodies
+10163,Waterbodies
+10171,Waterbodies
+10208,Waterbodies
+10223,Waterbodies
+10240,Waterbodies
+10241,Waterbodies
+10244,Built-up
+10245,Built-up
+10246,Mixed or Not Classified
+10263,Mixed or Not Classified
+10267,Shrubs
+10288,Shrubs
+10290,Shrubs
+10350,Shrubs
+10356,Natural Wooded Land
+10357,Natural Wooded Land
+10358,Waterbodies
+10360,Waterbodies
+10361,Waterbodies
+10362,Waterbodies
+10365,Waterbodies
+10366,Waterbodies
+10368,Waterbodies
+10370,Waterbodies
+10371,Waterbodies
+10372,Waterbodies
+10376,Waterbodies
+10378,Waterbodies
+10380,Waterbodies
+10382,Waterbodies
+10385,Waterbodies
+10386,Waterbodies
+10387,Waterbodies
+10388,Waterbodies
+10390,Waterbodies
+10391,Waterbodies
+10392,Waterbodies
+10393,Waterbodies
+10398,Waterbodies
+10410,Waterbodies
+10426,Waterbodies
+10434,Waterbodies
+10438,Annual Crops
+10439,Annual Crops
+10441,Annual Crops
+10445,Mixed or Not Classified
+10457,Shrubs
+10465,Mixed or Not Classified
+10466,Shrubs
+10475,Shrubs
+10494,Natural Grassland
+10500,Shrubs
+10509,Mixed or Not Classified
+10519,Mixed or Not Classified
+10522,Mixed or Not Classified
+10538,Shrubs
+10560,Mixed or Not Classified
+10601,Mixed or Not Classified
+10615,Mixed or Not Classified
+10617,Shrubs
+10621,Shrubs
+10625,Shrubs
+10644,Natural Grassland
+10653,Waterbodies
+10654,Waterbodies
+10655,Waterbodies
+10658,Waterbodies
+10660,Mixed or Not Classified
+10661,Natural Wooded Land
+10662,Natural Wooded Land
+10663,Natural Wooded Land
+10668,Waterbodies
+10669,Waterbodies
+10672,Waterbodies
+10673,Waterbodies
+10676,Waterbodies
+10680,Waterbodies
+10682,Waterbodies
+10684,Waterbodies
+10687,Waterbodies
+10688,Waterbodies
+10691,Waterbodies
+10693,Waterbodies
+10695,Waterbodies
+10697,Waterbodies
+10699,Waterbodies
+10700,Waterbodies
+10701,Waterbodies
+10703,Waterbodies
+10704,Waterbodies
+10706,Waterbodies
+10707,Waterbodies
+10708,Waterbodies
+10711,Waterbodies
+10712,Waterbodies
+10714,Unconsolidated Barren
+10715,Unconsolidated Barren
+10716,Unconsolidated Barren
+10717,Unconsolidated Barren
+10718,Unconsolidated Barren
+10719,Unconsolidated Barren
+10720,Unconsolidated Barren
+10721,Unconsolidated Barren
+10722,Unconsolidated Barren
+10723,Unconsolidated Barren
+10724,Unconsolidated Barren
+10725,Unconsolidated Barren
+10726,Unconsolidated Barren
+10727,Unconsolidated Barren
+10751,Mixed or Not Classified
+10754,Shrubs
+10759,Mixed or Not Classified
+10775,Natural Wooded Land
+10781,Mixed or Not Classified
+10790,Mixed or Not Classified
+10792,Natural Wooded Land
+10801,Natural Grassland
+10834,Mixed or Not Classified
+10846,Mixed or Not Classified
+10871,Mixed or Not Classified
+10876,Mixed or Not Classified
+10879,Mixed or Not Classified
+10883,Unconsolidated Barren
+10884,Mixed or Not Classified
+10890,Shrubs
+10891,Natural Wooded Land
+10892,Shrubs
+10893,Natural Wooded Land
+10894,Shrubs
+10895,Mixed or Not Classified
+10896,Natural Wooded Land
+10897,Mixed or Not Classified
+10898,Mixed or Not Classified
+10899,Natural Wooded Land
+10900,Mixed or Not Classified
+10925,Mixed or Not Classified
+10933,Shrubs
+10949,Shrubs
+10954,Built-up
+10955,Built-up
+10962,Shrubs
+10974,Annual Crops
+10975,Annual Crops
+10977,Natural Wooded Land
+10978,Natural Wooded Land
+10979,Natural Wooded Land
+10980,Natural Wooded Land
+10981,Mixed or Not Classified
+10982,Natural Wooded Land
+10983,Mixed or Not Classified
+10985,Annual Crops
+10987,Natural Wooded Land
+10988,Natural Wooded Land
+10992,Mixed or Not Classified
+10999,Natural Grassland
+11004,Annual Crops
+11009,Annual Crops
+11029,Built-up
+11030,Built-up
+11037,Mixed or Not Classified
+11038,Natural Grassland
+11039,Annual Crops
+11040,Natural Grassland
+11041,Natural Wooded Land
+11042,Natural Wooded Land
+11048,Annual Crops
+11059,Mixed or Not Classified
+11060,Mixed or Not Classified
+11061,Natural Wooded Land
+11062,Natural Wooded Land
+11063,Natural Grassland
+11072,Annual Crops
+11075,Annual Crops
+11079,Mixed or Not Classified
+11080,Built-up
+11082,Annual Crops
+11086,Wetlands
+11087,Wetlands
+11088,Wetlands
+11089,Annual Crops
+11090,Annual Crops
+11102,Annual Crops
+11103,Natural Grassland
+11105,Shrubs
+11106,Shrubs
+11107,Annual Crops
+11121,Mixed or Not Classified
+11122,Mixed or Not Classified
+11146,Annual Crops
+11149,Shrubs
+11161,Shrubs
+11166,Shrubs
+11187,Annual Crops
+11189,Annual Crops
+11196,Annual Crops
+11197,Annual Crops
+11198,Annual Crops
+11210,Annual Crops
+11212,Annual Crops
+11217,Annual Crops
+11220,Annual Crops
+11222,Annual Crops
+11230,Annual Crops
+11236,Annual Crops
+11238,Shrubs
+11239,Shrubs
+11241,Annual Crops
+11252,Wetlands
+11253,Wetlands
+11254,Wetlands
+11258,Wetlands
+11261,Wetlands
+11269,Waterbodies
+11321,Waterbodies
+11332,Waterbodies
+11339,Waterbodies
+11354,Waterbodies
+11385,Waterbodies
+11404,Waterbodies
+11410,Waterbodies
+11414,Waterbodies
+11416,Waterbodies
+11418,Waterbodies
+11428,Waterbodies
+11430,Waterbodies
+11441,Waterbodies
+11445,Waterbodies
+11459,Waterbodies
+11471,Waterbodies
+11485,Waterbodies
+11489,Waterbodies
+11498,Waterbodies
+11503,Waterbodies
+11508,Waterbodies
+11517,Waterbodies
+11573,Waterbodies
+11579,Waterbodies
+11583,Waterbodies
+11591,Waterbodies
+11600,Waterbodies
+11606,Waterbodies
+11609,Waterbodies
+11610,Waterbodies
+11611,Waterbodies
+11627,Waterbodies
+11631,Mixed or Not Classified
+11632,Mixed or Not Classified
+11633,Unconsolidated Barren
+11634,Unconsolidated Barren
+11635,Unconsolidated Barren
+11636,Mixed or Not Classified
+11637,Built-up
+11638,Mixed or Not Classified
+11639,Mixed or Not Classified
+11658,Waterbodies
+11665,Waterbodies
+11682,Unconsolidated Barren
+11683,Unconsolidated Barren
+11684,Unconsolidated Barren
+11685,Unconsolidated Barren
+11698,Shrubs
+11704,Shrubs
+11717,Natural Grassland
+11730,Shrubs
+11757,Mixed or Not Classified
+11760,Mixed or Not Classified
+11762,Shrubs
+11764,Shrubs
+11782,Shrubs
+11800,Mixed or Not Classified
+11812,Mixed or Not Classified
+11816,Mixed or Not Classified
+11828,Mixed or Not Classified
+11832,Mixed or Not Classified
+11836,Mixed or Not Classified
+11846,Mixed or Not Classified
+11893,Mixed or Not Classified
+11900,Mixed or Not Classified
+11929,Shrubs
+11943,Mixed or Not Classified
+11950,Shrubs
+11990,Mixed or Not Classified
+11998,Waterbodies
+12008,Waterbodies
+12031,Waterbodies
+12037,Waterbodies
+12048,Waterbodies
+12092,Waterbodies
+12108,Waterbodies
+12116,Waterbodies
+12128,Waterbodies
+20013,Unconsolidated Barren
+20026,Unconsolidated Barren
+20034,Unconsolidated Barren
+20039,Mixed or Not Classified
+20056,Unconsolidated Barren
+20084,Unconsolidated Barren
+20087,Unconsolidated Barren
+20090,Unconsolidated Barren
+20111,Unconsolidated Barren
+20168,Permanent Crops
+20181,Unconsolidated Barren
+20197,Permanent Crops
+20282,Permanent Crops
+20288,Mixed or Not Classified
+20298,Unconsolidated Barren
+20322,Unconsolidated Barren
+20336,Mixed or Not Classified
+20337,Mixed or Not Classified
+20340,Permanent Crops
+20370,Shrubs
+20392,Mixed or Not Classified
+20417,Mixed or Not Classified
+20426,Mixed or Not Classified
+20433,Wetlands
+20434,Wetlands
+20487,Wetlands
+20498,Mixed or Not Classified
+20530,Unconsolidated Barren
+20547,Unconsolidated Barren
+20549,Natural Grassland
+20552,Unconsolidated Barren
+20591,Unconsolidated Barren
+20610,Unconsolidated Barren
+20617,Permanent Crops
+20620,Permanent Crops
+20676,Unconsolidated Barren
+20706,Mixed or Not Classified
+20710,Mixed or Not Classified
+20711,Unconsolidated Barren
+20745,Shrubs
+20752,Unconsolidated Barren
+20758,Unconsolidated Barren
+20762,Unconsolidated Barren
+20768,Mixed or Not Classified
+20782,Mixed or Not Classified
+20796,Natural Wooded Land
+20823,Wetlands
+20825,Wetlands
+20828,Unconsolidated Barren
+20839,Unconsolidated Barren
+20887,Shrubs
+20896,Permanent Crops
+20927,Natural Grassland
+20940,Annual Crops
+20944,Annual Crops
+20968,Wetlands
+20971,Permanent Crops
+21022,Permanent Crops
+21025,Unconsolidated Barren
+21035,Mixed or Not Classified
+21036,Permanent Crops
+21046,Mixed or Not Classified
+21057,Shrubs
+21059,Permanent Crops
+21061,Mixed or Not Classified
+21083,Natural Grassland
+21104,Waterbodies
+21125,Mixed or Not Classified
+21185,Permanent Crops
+21191,Mixed or Not Classified
+21201,Natural Wooded Land
+21209,Permanent Crops
+21217,Unconsolidated Barren
+21239,Natural Wooded Land
+21246,Natural Grassland
+21256,Permanent Crops
+21271,Natural Grassland
+21283,Natural Grassland
+21406,Consolidated Barren
+21455,Shrubs
+21469,Consolidated Barren
+21471,Mixed or Not Classified
+21494,Consolidated Barren
+21499,Natural Wooded Land
+21502,Consolidated Barren
+21515,Mixed or Not Classified
+21528,Mixed or Not Classified
+21554,Mixed or Not Classified
+21572,Consolidated Barren
+21582,Permanent Crops
+21589,Mixed or Not Classified
+21619,Natural Grassland
+21623,Consolidated Barren
+21639,Consolidated Barren
+21640,Mixed or Not Classified
+21668,Shrubs
+21671,Mixed or Not Classified
+21678,Mixed or Not Classified
+21686,Mixed or Not Classified
+21709,Consolidated Barren
+21711,Shrubs
+21728,Shrubs
+21734,Mixed or Not Classified
+21738,Mixed or Not Classified
+21748,Shrubs
+21764,Mixed or Not Classified
+21768,Mixed or Not Classified
+21775,Mixed or Not Classified
+21782,Permanent Crops
+21813,Mixed or Not Classified
+21823,Mixed or Not Classified
+21845,Mixed or Not Classified
+21867,Mixed or Not Classified
+21902,Consolidated Barren
+21919,Natural Grassland
+21925,Consolidated Barren
+21950,Mixed or Not Classified
+21964,Permanent Crops
+21974,Mixed or Not Classified
+21983,Permanent Crops
+21985,Permanent Crops
+22012,Mixed or Not Classified
+22027,Mixed or Not Classified
+22046,Unconsolidated Barren
+22094,Mixed or Not Classified
+22126,Mixed or Not Classified
+22128,Mixed or Not Classified
+22159,Mixed or Not Classified
+22187,Shrubs
+22189,Shrubs
+22192,Mixed or Not Classified
+22225,Consolidated Barren
+22234,Mixed or Not Classified
+22238,Mixed or Not Classified
+22273,Unconsolidated Barren
+22296,Mixed or Not Classified
+22305,Permanent Crops
+22315,Unconsolidated Barren
+22333,Unconsolidated Barren
+22337,Unconsolidated Barren
+22363,Permanent Crops
+22377,Unconsolidated Barren
+22382,Shrubs
+22415,Natural Wooded Land
+22471,Mixed or Not Classified
+22481,Mixed or Not Classified
+22482,Shrubs
+22492,Natural Wooded Land
+22496,Mixed or Not Classified
+22497,Mixed or Not Classified
+22503,Mixed or Not Classified
+22508,Shrubs
+22512,Shrubs
+22533,Permanent Crops
+22575,Planted Forest
+22587,Mixed or Not Classified
+22593,Unconsolidated Barren
+22606,Natural Grassland
+22613,Unconsolidated Barren
+22615,Shrubs
+22623,Mixed or Not Classified
+22628,Consolidated Barren
+22635,Wetlands
+22648,Natural Grassland
+22649,Wetlands
+22654,Mixed or Not Classified
+22671,Natural Grassland
+22688,Unconsolidated Barren
+22689,Natural Grassland
+22696,Consolidated Barren
+22761,Mixed or Not Classified
+22769,Mixed or Not Classified
+22795,Mixed or Not Classified
+22807,Mixed or Not Classified
+22813,Shrubs
+22833,Mixed or Not Classified
+22836,Shrubs
+22851,Mixed or Not Classified
+22872,Mixed or Not Classified
+22902,Mixed or Not Classified
+22917,Wetlands
+22919,Wetlands
+22931,Mixed or Not Classified
+22935,Shrubs
+22952,Mixed or Not Classified
+22955,Mixed or Not Classified
+22960,Mixed or Not Classified
+22972,Shrubs
+22982,Mixed or Not Classified
+23015,Unconsolidated Barren
+23033,Mixed or Not Classified
+23035,Mixed or Not Classified
+23037,Consolidated Barren
+23038,Mixed or Not Classified
+23044,Mixed or Not Classified
+23045,Wetlands
+23086,Unconsolidated Barren
+23095,Mixed or Not Classified
+23101,Mixed or Not Classified
+23103,Natural Grassland
+23139,Shrubs
+23166,Permanent Crops
+23172,Consolidated Barren
+23173,Mixed or Not Classified
+23176,Mixed or Not Classified
+23180,Mixed or Not Classified
+23235,Shrubs
+23252,Permanent Crops
+23278,Mixed or Not Classified
+23285,Natural Grassland
+23337,Shrubs
+23338,Shrubs
+23341,Mixed or Not Classified
+23356,Mixed or Not Classified
+23396,Mixed or Not Classified
+23415,Mixed or Not Classified
+23444,Permanent Crops
+23458,Permanent Crops
+23472,Unconsolidated Barren
+23473,Shrubs
+23489,Shrubs
+23515,Shrubs
+23525,Permanent Crops
+23530,Permanent Crops
+23608,Permanent Crops
+23609,Permanent Crops
+23623,Permanent Crops
+23627,Mixed or Not Classified
+23699,Permanent Crops
+23715,Permanent Crops
+23724,Permanent Crops
+23771,Permanent Crops
+23794,Unconsolidated Barren
+23849,Permanent Crops
+23862,Shrubs
+23918,Wetlands
+23921,Permanent Crops
+23927,Unconsolidated Barren
+23950,Consolidated Barren
+23974,Wetlands
+23976,Shrubs
+23995,Unconsolidated Barren
+24036,Permanent Crops
+24041,Permanent Crops
+24060,Permanent Crops
+24067,Permanent Crops
+24071,Shrubs
+24084,Permanent Crops
+24115,Permanent Crops
+24126,Wetlands
+24160,Permanent Crops
+24178,Permanent Crops
+24190,Natural Wooded Land
+24224,Consolidated Barren
+24244,Shrubs
+24246,Wetlands
+24262,Consolidated Barren
+24296,Permanent Crops
+24336,Consolidated Barren
+24352,Permanent Crops
+24370,Planted Forest
+24385,Annual Crops
+24408,Planted Forest
+24427,Wetlands
+24436,Consolidated Barren
+24438,Mixed or Not Classified
+24440,Consolidated Barren
+24444,Planted Forest
+24447,Wetlands
+24462,Shrubs
+24490,Shrubs
+24506,Wetlands
+24533,Natural Grassland
+24543,Wetlands
+24590,Consolidated Barren
+24662,Natural Wooded Land
+24700,Mixed or Not Classified
+24704,Natural Grassland
+24736,Mixed or Not Classified
+24738,Wetlands
+24743,Permanent Crops
+24744,Shrubs
+24759,Shrubs
+24761,Natural Wooded Land
+24770,Natural Wooded Land
+24799,Permanent Crops
+24816,Shrubs
+24819,Permanent Crops
+24837,Mixed or Not Classified
+24848,Mixed or Not Classified
+24856,Permanent Crops
+24857,Permanent Crops
+24879,Permanent Crops
+24903,Permanent Crops
+24930,Permanent Crops
+24950,Permanent Crops
+24952,Wetlands
+24969,Mixed or Not Classified
+24970,Natural Grassland
+24995,Planted Forest
+24997,Natural Grassland
+24998,Shrubs
+25016,Natural Grassland
+25032,Shrubs
+25044,Shrubs
+25045,Natural Wooded Land
+25053,Wetlands
+25054,Mixed or Not Classified
+25055,Mixed or Not Classified
+25059,Permanent Crops
+25094,Natural Wooded Land
+25142,Wetlands
+25164,Shrubs
+25182,Natural Wooded Land
+25215,Mixed or Not Classified
+25228,Natural Grassland
+25249,Permanent Crops
+25250,Mixed or Not Classified
+25251,Permanent Crops
+25267,Natural Wooded Land
+25278,Consolidated Barren
+25292,Shrubs
+25301,Natural Grassland
+25345,Natural Wooded Land
+25383,Planted Forest
+25412,Planted Forest
+25470,Wetlands
+25476,Wetlands
+25477,Shrubs
+25483,Wetlands
+25510,Consolidated Barren
+25547,Planted Forest
+25592,Planted Forest
+25616,Planted Forest
+25684,Natural Wooded Land
+25690,Natural Grassland
+25705,Planted Forest
+25716,Natural Grassland
+25731,Permanent Crops
+25733,Natural Wooded Land
+25740,Permanent Crops
+25752,Wetlands
+25755,Natural Grassland
+25774,Permanent Crops
+25777,Planted Forest
+25788,Permanent Crops
+25789,Permanent Crops
+25848,Mixed or Not Classified
+25870,Natural Wooded Land
+25896,Wetlands
+25905,Shrubs
+25946,Natural Wooded Land
+25975,Permanent Crops
+25982,Natural Wooded Land
+25991,Shrubs
+26032,Planted Forest
+26095,Wetlands
+26100,Shrubs
+26142,Shrubs
+26167,Natural Wooded Land
+26197,Permanent Crops
+26202,Permanent Crops
+26213,Permanent Crops
+26250,Natural Wooded Land
+26263,Permanent Crops
+26270,Permanent Crops
+26272,Permanent Crops
+26336,Permanent Crops
+26347,Natural Wooded Land
+26353,Natural Grassland
+26404,Wetlands
+26416,Unconsolidated Barren
+26430,Unconsolidated Barren
+26438,Mixed or Not Classified
+26440,Planted Forest
+26467,Unconsolidated Barren
+26492,Mixed or Not Classified
+26506,Permanent Crops
+26540,Consolidated Barren
+26544,Wetlands
+26598,Planted Forest
+26606,Permanent Crops
+26618,Planted Forest
+26631,Wetlands
+26646,Planted Forest
+26667,Planted Forest
+26700,Wetlands
+26777,Wetlands
+26807,Natural Wooded Land
+26871,Permanent Crops
+26874,Mixed or Not Classified
+26881,Planted Forest
+26922,Planted Forest
+26931,Consolidated Barren
+26934,Planted Forest
+26947,Wetlands
+26976,Wetlands
+26996,Unconsolidated Barren
+26998,Permanent Crops
+27047,Wetlands
+27059,Consolidated Barren
+27063,Wetlands
+27079,Wetlands
+27099,Permanent Crops
+27103,Wetlands
+27130,Unconsolidated Barren
+27138,Natural Grassland
+27145,Wetlands
+27146,Permanent Crops
+27155,Planted Forest
+27158,Natural Wooded Land
+27163,Permanent Crops
+27178,Permanent Crops
+27251,Permanent Crops
+27268,Permanent Crops
+27305,Natural Wooded Land
+27328,Wetlands
+27331,Planted Forest
+27334,Permanent Crops
+27368,Wetlands
+27387,Shrubs
+27435,Permanent Crops
+27451,Planted Forest
+27454,Wetlands
+27463,Natural Wooded Land
+27484,Permanent Crops
+27489,Natural Grassland
+27499,Permanent Crops
+27505,Permanent Crops
+27534,Wetlands
+27547,Permanent Crops
+27571,Natural Wooded Land
+27573,Consolidated Barren
+27597,Permanent Crops
+27603,Wetlands
+27605,Mixed or Not Classified
+27625,Consolidated Barren
+27643,Permanent Crops
+27666,Wetlands
+27673,Natural Grassland
+27690,Wetlands
+27695,Wetlands
+27733,Mixed or Not Classified
+27738,Mixed or Not Classified
+27751,Natural Grassland
+27763,Mixed or Not Classified
+27775,Natural Grassland
+27785,Planted Forest
+27796,Permanent Crops
+27801,Planted Forest
+27808,Unconsolidated Barren
+27811,Permanent Crops
+27812,Wetlands
+27829,Planted Forest
+27860,Permanent Crops
+27883,Planted Forest
+27912,Permanent Crops
+27922,Permanent Crops
+27984,Natural Wooded Land
+27990,Permanent Crops
+27994,Permanent Crops
+28004,Mixed or Not Classified
+28026,Wetlands
+28046,Mixed or Not Classified
+28057,Mixed or Not Classified
+28111,Wetlands
+28115,Wetlands
+28120,Wetlands
+28125,Wetlands
+28183,Wetlands
+28184,Wetlands
+28201,Wetlands
+28207,Permanent Crops
+28221,Wetlands
+28276,Permanent Crops
+28277,Natural Wooded Land
+28282,Wetlands
+28301,Wetlands
+28310,Wetlands
+28317,Wetlands
+28336,Wetlands
+28340,Wetlands
+28360,Wetlands
+28361,Wetlands
+28374,Wetlands
+28378,Wetlands
+28380,Wetlands
+28381,Wetlands
+28382,Mixed or Not Classified
+28413,Wetlands
+28439,Wetlands
+28448,Wetlands
+28452,Wetlands
+28460,Wetlands
+28469,Mixed or Not Classified
+28480,Wetlands
+28494,Wetlands
+28496,Wetlands
+28497,Mixed or Not Classified
+28499,Natural Wooded Land
